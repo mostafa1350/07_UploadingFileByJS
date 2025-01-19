@@ -13,8 +13,9 @@ body{
     background : #fffca1;
     justify-content:center;
     align-items:center;
-    border:2px;
+    border:12px;
     border-radius:7px;
+    border-color:rgb(185,19,1);
 
 }
 .myheader{
@@ -25,4 +26,11 @@ body{
 .myform{
     margin:15px;
 }
-
+#btnFile{
+    margin-top:15px;
+    margin-bottom:15px;
+    cursor:pointer;
+}
+#select-file{
+    cursor:pointer;
+}
